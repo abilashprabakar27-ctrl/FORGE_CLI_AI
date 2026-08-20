@@ -1,0 +1,6 @@
+*.class
+*.jar
+*.db
+target/
+.vscode/
+.env
